@@ -1,2 +1,2 @@
 # SQL_project
-[db_project.pdf](https://github.com/user-attachments/files/18466065/db_project.pdf)
+This project is a database management system for a flower store. It manages information related to flowers , customers, suppliers, sales, inventory (stock), and reviews.The database design includes seven tables, and it provides  flexible data management for running the store. Features include tracking stock levels, managing supplier and customer information, recording transactions and handling reviews.
